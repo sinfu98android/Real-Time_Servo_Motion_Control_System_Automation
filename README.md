@@ -1,6 +1,6 @@
 # 3-Servo Motion Control Automation – Handles 150 g Packs at 240 PPM, PLC-Based, Scalable
 
-🎥 **Watch Demo Video:** [watch youtube ](https://youtube.com/shorts/RkutWhYk8Z4?si=lX6ldTjML1j5Pb9A)
+🎥 **Watch Demo Video:** [![watch youtube ](Diagrams/Demo Video pic.jpg)](https://youtube.com/shorts/RkutWhYk8Z4?si=lX6ldTjML1j5Pb9A)
 
 ## Project Overview
 This project delivers a **brand-agnostic, fully motion-controlled automation system** for sorting, collecting, and cartoning products using a **3-servo synchronized architecture**. The system was **designed and built end-to-end** by the author, including PLC programming, motion logic, load balancing, and full integration.<br>
