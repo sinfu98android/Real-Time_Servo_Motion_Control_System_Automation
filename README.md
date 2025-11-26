@@ -14,10 +14,12 @@ Unlike mechanical cam-based systems, this solution is **100% motion-driven**, en
 - **ERP/AI-ready:** Supports reporting, analytics, and predictive maintenance
 
 ## Repository Contents
-- [Full Technical Portfolio (PDF)](https://github.com/sinfu98android/3-Servo_Motion_Control_Automation/blob/7653cd1b330a65c9a203d670b3b8d9f050e0d03b/3%20servo%20control%20motion%20automation%20portfolio.pdf) 
-- `/diagrams` → Machine Diagram.jpg  
-- `/plc_code` →
-  [PLC snippets demonstrating key control logic](https://github.com/sinfu98android/3-Servo_Motion_Control_Automation/blob/7653cd1b330a65c9a203d670b3b8d9f050e0d03b/Ladder%20PLC%201.pdf)  
+- '/ Technical portfolio'→[Full Technical Portfolio (PDF)](https://github.com/sinfu98android/3-Servo_Motion_Control_Automation/blob/7653cd1b330a65c9a203d670b3b8d9f050e0d03b/3%20servo%20control%20motion%20automation%20portfolio.pdf) 
+- `/diagrams`
+   [Machine Diagram.jpg](https://github.com/sinfu98android/3-Servo_Motion_Control_Automation/blob/5f1280ab15c301c2d8708367cd6e414fbfe044cc/Machine%20Diagram.jpg)
+   [In-line Cartoning Diagram.jpg](https://github.com/sinfu98android/3-Servo_Motion_Control_Automation/blob/01b9bc39f1418f6858aecacf4f9088a07466908d/In-line%20cartoning%20diagram.jpg)
+  [Motion Logic.jpg](https://github.com/sinfu98android/3-Servo_Motion_Control_Automation/blob/01b9bc39f1418f6858aecacf4f9088a07466908d/In-line%20cartoning%20diagram.jpg)
+- `/plc_code` →'[PLC snippets demonstrating key control logic](https://github.com/sinfu98android/3-Servo_Motion_Control_Automation/blob/7653cd1b330a65c9a203d670b3b8d9f050e0d03b/Ladder%20PLC%201.pdf)  
 
 ## Technical Skills & Keywords
 Motion Control | Servo Synchronization | Automation | PLC | High-Speed Cartoning | End-to-End System Design | Scalable Architecture | Production-Proven | Motion Logic | Load Balancing  
