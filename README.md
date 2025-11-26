@@ -15,7 +15,11 @@ Unlike mechanical cam-based systems, this solution is **100% motion-driven**, en
 
 ## Repository Contents
 - [Full Technical Portfolio (PDF)](https://github.com/sinfu98android/3-Servo_Motion_Control_Automation/blob/7653cd1b330a65c9a203d670b3b8d9f050e0d03b/3%20servo%20control%20motion%20automation%20portfolio.pdf) 
-- `/diagrams` → Machine Diagram.jpg  
+mkdir diagrams` →[Machine Diagram.jpg](https://github.com/sinfu98android/3-Servo_Motion_Control_Automation/blob/e1443085ba4474514ae8a5b9721e026c0642d3ae/Machine%20Diagram.jpg)
+                  [In-line Cartoning Diagram.jpg](https://github.com/sinfu98android/3-Servo_Motion_Control_Automation/blob/e1443085ba4474514ae8a5b9721e026c0642d3ae/In-line%20cartoning%20diagram.jpg)
+                  [Motion logic diagram.jpg](https://github.com/sinfu98android/3-Servo_Motion_Control_Automation/blob/e1443085ba4474514ae8a5b9721e026c0642d3ae/Motion%20Logic.jpg)
+                   
+  
 - `/plc_code` →
   [PLC snippets demonstrating key control logic](https://github.com/sinfu98android/3-Servo_Motion_Control_Automation/blob/7653cd1b330a65c9a203d670b3b8d9f050e0d03b/Ladder%20PLC%201.pdf)  
 
