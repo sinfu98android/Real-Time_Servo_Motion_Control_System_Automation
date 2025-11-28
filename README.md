@@ -1,7 +1,6 @@
-# 3-Servo Motion Control Automation – Handles 150 g Packs at 240 PPM, PLC-Based, Scalable
+# 3-Servo Motion Control Automation
 
-🎥 **Watch Demo Video:** ![Youtube link](https://github.com/sinfu98android/3-Servo_Motion_Control_Automation/blob/a5ef58b1e293a09152d0128cf9d7d8c0e1c2773b/Diagrams/Video%20Demo%20JPG)(https://youtube.com/shorts/RkutWhYk8Z4?si=lX6ldTjML1j5Pb9A)<br>
-*Shows full 3-servo synchronization, cartoning flow, and production throughput.*
+**Real-Time Industrial Automation | Modular & Scalable | HMI Powered by Orchestrix Framework**
 
 
 
@@ -11,21 +10,43 @@ This project delivers a **brand-agnostic, fully motion-controlled automation sys
 Unlike mechanical cam-based systems, this solution is **100% motion-driven**, enabling **high precision, scalable throughput, and minimal mechanical complexity**. Servos operate with **sub-1 ms synchronization**, ensuring smooth product transfer and stable performance.
 
 ## Key Highlights
-- **Throughput:** 240 PPM design, 120 PPM operational  
-- **Product load:** Handles 150 g packs efficiently  
-- **Servo sync latency:** <1 ms (sub-microsecond control)  
-- **Scalable architecture:** Add servo modules without redesign  
-- **Production-proven:** Running >1 year with low downtime  
-- **ERP/AI-ready:** Supports reporting, analytics, and predictive maintenance
- ## Technical Highlight
- **Languages**: C, C++ <br>
-**Systems**: Linux (embedded & host), Real-time control<br>
-**Embedded**: State machines, deterministic scan cycle, interrupt-driven logic<br>
-**Communication**: RS485, CAN, Modbus RTU, Ethernet<br>
-**Control Systems**: Motion control (servo synchronization), PLC integration<br>
-**Software Design**: Real-time scheduling, IPC, memory-safe design<br>
-**Tools:** GCC, CMake, Git
+**High Throughput:** Designed for 240 PPM, operational at 120 PPM, with smooth, stable performance.
 
+**Precision Handling:** Supports 150 g packs with sub-millisecond servo synchronization (<1 ms).
+
+**Modular & Scalable Architecture:** Easily add servo axes or devices without redesign, demonstrating system-level thinking.
+
+**Brand-Agnostic Design:** Supports multiple servo and PLC brands, reducing spare-part and maintenance costs by 30%+.
+
+**Production-Proven:** Running over 1 year continuously with minimal downtime.
+
+**Data & Analytics Ready:** Supports reporting, predictive maintenance, and integration with ERP/AI systems.
+
+**Embedded & Industrial Expertise:** End-to-end integration from ARM/PLC motion control to HMI, showing real-time deterministic control.<br>
+ ## Technical Highlight
+ **Languages:** C, C++<br>
+**Systems & Platforms:** Embedded Linux, Host Linux, Real-time control<br>
+**Embedded Programming:** State machines, deterministic scan cycles, interrupt-driven logic<br>
+**Communication Protocols:** RS485, CAN, Modbus RTU, Ethernet<br>
+**Control Systems:** Multi-servo motion control, PLC integration, real-time coordination<br>
+**Software Design & Architecture:** Real-time scheduling, IPC, memory-safe modular design<br>
+**Tools & Workflow:** GCC, CMake, Git<br>
+## Results & Impact
+
+**High-Performance Throughput:** Designed for 240 PPM, operational at 120 PPM, with smooth and stable product flow.<br>
+
+**Precision & Reliability:** Sub-1 ms synchronization across 3 servo axes ensures accurate, repeatable motion with minimal mechanical stress.<br>
+
+**Scalable & Flexible:** Modular, brand-agnostic architecture allows adding servos or devices without redesign, future-proofing the system.<br>
+
+**Cost Efficiency:** Supports multiple servo and PLC brands, reducing spare-part and maintenance costs by 30%+.<br>
+
+**Production-Proven:** Running continuously for over 1 year with minimal downtime, demonstrating industrial-grade robustness.<br>
+
+**Smart Operations Ready:** Integrates with ERP and predictive maintenance, enabling data-driven insights and operational optimization<br>
+
+🎥 **Watch Demo Video:** ![Youtube link](https://github.com/sinfu98android/3-Servo_Motion_Control_Automation/blob/a5ef58b1e293a09152d0128cf9d7d8c0e1c2773b/Diagrams/Video%20Demo%20JPG)(https://youtube.com/shorts/RkutWhYk8Z4?si=lX6ldTjML1j5Pb9A)<br>
+*Shows full 3-servo synchronization, cartoning flow, and production throughput.*
 
 ## Repository Contents
 - `/Technical Portfolio`→ [Full Technical Portfolio (PDF)](https://github.com/sinfu98android/3-Servo_Motion_Control_Automation/blob/7653cd1b330a65c9a203d670b3b8d9f050e0d03b/3%20servo%20control%20motion%20automation%20portfolio.pdf)
