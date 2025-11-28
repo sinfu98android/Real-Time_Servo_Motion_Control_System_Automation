@@ -20,7 +20,7 @@ Unlike mechanical cam-based systems, this solution is **100% motion-driven**, en
  ## Technical Highlight
  **Languages**: C, C++ <br>
 **Systems**: Linux (embedded & host), Real-time control<br>
-**Embedded**: State machines, deterministic scan cycle, interrupt-driven logic
+**Embedded**: State machines, deterministic scan cycle, interrupt-driven logic<br>
 **Communication**: RS485, CAN, Modbus RTU, Ethernet<br>
 **Control Systems**: Motion control (servo synchronization), PLC integration<br>
 **Software Design**: Real-time scheduling, IPC, memory-safe design<br>
