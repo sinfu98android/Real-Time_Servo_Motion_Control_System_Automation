@@ -17,6 +17,14 @@ Unlike mechanical cam-based systems, this solution is **100% motion-driven**, en
 - **Scalable architecture:** Add servo modules without redesign  
 - **Production-proven:** Running >1 year with low downtime  
 - **ERP/AI-ready:** Supports reporting, analytics, and predictive maintenance
+ ## Technical Highlight
+ **Languages**: C, C++ <br>
+**Systems**: Linux (embedded & host), Real-time control<br>
+**Embedded**: State machines, deterministic scan cycle, interrupt-driven logic
+**Communication**: RS485, CAN, Modbus RTU, Ethernet<br>
+**Control Systems**: Motion control (servo synchronization), PLC integration<br>
+**Software Design**: Real-time scheduling, IPC, memory-safe design<br>
+
 
 ## Repository Contents
 - `/Technical Portfolio`→ [Full Technical Portfolio (PDF)](https://github.com/sinfu98android/3-Servo_Motion_Control_Automation/blob/7653cd1b330a65c9a203d670b3b8d9f050e0d03b/3%20servo%20control%20motion%20automation%20portfolio.pdf)
